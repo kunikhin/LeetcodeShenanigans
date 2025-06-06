@@ -1,2 +1,3 @@
-# LeetcodeShenanigans
-Solving medium and high difficulty problems from Leetcode
+# Leetcode Shenanigans
+Solving various difficulty problems from Leetcode
+Includes unit tests
