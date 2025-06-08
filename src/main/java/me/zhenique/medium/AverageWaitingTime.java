@@ -1,4 +1,7 @@
 package me.zhenique.medium;
+/*
+https://leetcode.com/problems/average-waiting-time/
+*/
 
 public class AverageWaitingTime {
     public double averageWaitingTime(int[][] customers) {
